@@ -1,7 +1,8 @@
 Hello I'm ZairullahDeveloper, Just call me Zairullah.
 
+13 Year Old (Young) Developer, Average Coder.
 
-I'm like to develop using phone, using [Termux](https://github.com/zairullahdev/Alexandra)
+I'm like to develop using phone, using [Termux](https://github.com/termux/termux-app)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=zairullahdev&show_icons=true&theme=tokyonight" />
